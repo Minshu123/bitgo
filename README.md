@@ -1,9 +1,9 @@
-#Requirements
-Create a server which will be able to take in the following rest API
-Create a notification. Line items may include current price of BTC, market trade volume, intra day high price, market cap 
-Send a notification to an email
-List sent notifications (sent, outstanding, failed etc.)
-Delete a notification
+Requirements
+1.Create a server which will be able to take in the following rest API
+2. Create a notification. Line items may include current price of BTC, market trade volume, intra day high price, market cap 
+3. Send a notification to an email
+4. List sent notifications (sent, outstanding, failed etc.)
+5. Delete a notification
 
 
 <img width="1710" height="1037" alt="Screenshot 2025-09-25 at 6 30 39 PM" src="https://github.com/user-attachments/assets/e7992f47-e8be-446a-a6a0-7c9dd0558053" />
