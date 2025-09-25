@@ -24,8 +24,10 @@ Explaination:-
 6. Also storing the notification to the user list for different scenerio incase if it is sent , failed or outstanding.. etc
 7. Also exposed function to soft delete the notification from the coin.
 
+<img width="1710" height="1107" alt="Screenshot 2025-09-25 at 6 42 39 PM" src="https://github.com/user-attachments/assets/197077f3-caa7-470f-abb8-36e0f84ad1e5" />
 
 Have Application class as main function where
+
 <img width="1710" height="1107" alt="Screenshot 2025-09-25 at 6 38 42 PM" src="https://github.com/user-attachments/assets/610a91c9-4eb3-4f2a-a8c9-6ee6e52b4aa5" />
  we can add the user to the coin for getting the notification and different other operations. so Application class is the entry points.
 
